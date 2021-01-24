@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ru.buz.chatMultiClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ru_buz_chatMultiClient_jar</output-path>
+    <root id="archive" name="ru.buz.chatMultiClient.jar">
+      <element id="module-output" name="ru.buz.chatMultiClient" />
+    </root>
+  </artifact>
+</component>
